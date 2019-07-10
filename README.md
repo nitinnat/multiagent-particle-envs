@@ -2,8 +2,8 @@
 1. Introduces two new environments called simple_image_tracing and simple_image_filling with two new reward functions.
 2. Runs the MADDPG algorithm on the environments.
 3. Base codes:
-    a. Multi-Agent-Particle Environment - https://github.com/openai/multiagent-particle-envs
-    b. MADDPG - https://github.com/openai/maddpg
+    1. Multi-Agent-Particle Environment - https://github.com/openai/multiagent-particle-envs
+    2. MADDPG - https://github.com/openai/maddpg
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
